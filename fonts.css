@@ -1,0 +1,14 @@
+@font-face{
+	font-family:DigitalTech;
+	src:url(fonts/digital-tech.otf);
+}
+
+@font-face{
+	font-family:AmericanCaptainPatrius;
+	src:url(fonts/AmericanCaptainPatrius.otf);
+}
+
+@font-face{
+	font-family:NF-DejaVuSansM-Mono;
+	src:url(fonts/DejaVuSansMNerdFontMono-Regular.ttf)
+}

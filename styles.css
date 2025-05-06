@@ -1,0 +1,98 @@
+body{
+	background:#000;
+	margin:0px;
+	padding:0px;
+}
+
+html{
+	margin:0px;
+	padding:0px;
+}
+
+.title{
+	color:#fc0;
+	text-align:center;
+	font-family:DigitalTech;
+	font-size:100px;
+	margin:auto;
+	background:#f00;
+}
+
+.navbar{
+	text-align:center;
+	background-color:#222;
+	padding:20px;
+	font-family:AmericanCaptainPatrius;
+	position:fixed;
+	width:100%;
+	z-index:100;
+}
+
+.navlink{
+	color:#fff;
+	text-decoration:none;
+	padding:5px;
+}
+
+.navlink:hover{
+	background:#f00;
+}
+
+.navlink-active{
+	color:#f00;
+	padding:5px;
+}
+
+.banner-image{
+	width:100%;
+	height:100%;
+	margin-top:40px;
+}
+
+.icon-link{
+	font-family:NF-DejaVuSansMono;
+	font-size:60px;
+	text-align:center;
+	padding-top:100px;
+}
+
+.icon-email{
+	color:#f44;
+	text-decoration:none;
+}
+
+a.icon-email:hover{
+	text-decoration:underline;
+	text-decoration-color:#fff;
+}
+
+.icon-instagram{
+	color:#f84;
+	text-decoration:none;
+}
+
+a.icon-instagram:hover{
+	text-decoration:underline;
+	text-decoration-color:#fff;
+}
+
+.icon-facebook{
+	color:#4af;
+	text-decoration:none;
+}
+
+a.icon-facebook:hover{
+	text-decoration:underline;
+	text-decoration-color:#fff;
+}
+
+.icon-twitter{
+	color:#fff;
+	text-decoration:none;
+}
+
+a.icon-twitter:hover{
+	text-decoration:underline;
+	text-decoration-color:#fff;
+}
+
