@@ -16,6 +16,24 @@ html{
 	font-size:100px;
 	margin:auto;
 	background:#f00;
+	padding-top:60px;
+}
+
+.header{
+	color:#f00;
+	font-family:AmericanCaptainPatrius;
+	text-decoration:underline;
+	text-decoration-color:#fc0;
+	text-align:center;
+	margin:auto;
+	font-size:60px;
+}
+
+.content{
+	margin:auto;
+	width:700px;
+	font-family:NF-DejaVuSansMono;
+	color:#fff;
 }
 
 .navbar{
@@ -46,7 +64,7 @@ html{
 .banner-image{
 	width:100%;
 	height:100%;
-	margin-top:40px;
+	margin-bottom:60px;
 }
 
 .icon-link{
