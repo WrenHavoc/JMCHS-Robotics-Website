@@ -26,6 +26,7 @@ html{
 	text-decoration-color:#fc0;
 	text-align:center;
 	margin:auto;
+	margin-top:80px;
 	font-size:60px;
 }
 
@@ -34,13 +35,22 @@ html{
 	font-family:AmericanCaptainPatrius;
 	text-align:center;
 	margin:auto;
+	margin-top:30px;
 	font-size:45px;
 }
-
+ 
 .content{
 	margin:auto;
 	width:700px;
 	font-family:NF-DejaVuSansM-Mono;
+	color:#fff;
+}
+
+a.content{
+	color:#fc0;
+}
+
+a.content:hover{
 	color:#fff;
 }
 
@@ -120,5 +130,21 @@ a.icon-facebook:hover{
 a.icon-twitter:hover{
 	text-decoration:underline;
 	text-decoration-color:#fff;
+}
+
+.footer{
+	background-color:#222;
+	width:100%;
+	margin:0;
+	position:absolute;
+}
+
+.footer-content{
+	color:#fff;
+	text-align:center;
+	float:center;
+	margin:auto;
+	padding-left:50px;
+	position:relative;
 }
 
